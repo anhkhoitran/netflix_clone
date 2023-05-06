@@ -7,4 +7,4 @@ A simple version of Netflix with Login and Sign Up for account features using Fi
 ReactJS, TailwindCSS, Firebase.
 
 ## DEMO
-[CLick here](https://netflix2-78564.web.app) to view the demo version.
+[Click here](https://netflix2-78564.web.app) to view the demo version.
